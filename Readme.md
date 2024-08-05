@@ -16,3 +16,10 @@ Architecture
       1) Kubelet
       2) Kube Proxy
       3) Container runtime
+
+Installation
+  Docker
+  kubectl
+  minikube
+
+
